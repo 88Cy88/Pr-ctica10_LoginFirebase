@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023457564057",
+    "project_id": "fir-login-7af53",
+    "storage_bucket": "fir-login-7af53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023457564057:android:ac7173a2a79662f8796f08",
+        "android_client_info": {
+          "package_name": "sauceda.carlos.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023457564057-v50ktgc1i8psm5d3ivlrbeqb89ilhbao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwq6klP8ivEN2yXPe7NHv4ME1voFk9Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023457564057-v50ktgc1i8psm5d3ivlrbeqb89ilhbao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
