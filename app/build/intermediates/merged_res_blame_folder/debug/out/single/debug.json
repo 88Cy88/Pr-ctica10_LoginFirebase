@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable_ic_bg.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable/ic_bg.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable_ic_user.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable_ic_logo.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable_ic_email.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable_ic_field.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable/ic_field.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable_ic_buttom.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable/ic_buttom.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable_ic_back.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable_profile_photo.png.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable/profile_photo.png"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/layout_activity_sign_in.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable_ic_lock.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sauceda.carlos.firebaselogin.app-merged_res-34:/drawable_ic_sign_out.xml.flat",
+        "source": "sauceda.carlos.firebaselogin.app-main-36:/drawable/ic_sign_out.xml"
+    }
+]
